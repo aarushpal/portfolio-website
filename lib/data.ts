@@ -44,6 +44,14 @@ export const experiencesData = [
     icon: React.createElement(LuGraduationCap),
     date: "June 2023 - July 2023",
   },
+  {
+    title: "B.Tech",
+    company: "Computer Science",
+    location: "Manipal Institute Of Technology, Manipal",
+    description: "",
+    icon: React.createElement(LuGraduationCap),
+    date: "October 2020 - August 2024",
+  },
 ] as const;
 
 export const projectsData = [
